@@ -1,6 +1,6 @@
 {
-    "name": "jorarmarfin/lasravel-culqi",
-    "description": "Plataforma de pago con culqi",
+    "name": "jorarmarfin/laravel-culqi",
+    "description": "Integrtacion con Culqi",
     "type": "library",
     "license": "MIT",
     "authors": [
